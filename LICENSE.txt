@@ -1,0 +1,5 @@
+COPYRIGHT (C) 2022-2024 Alexander Gibbons
+
+Under no circumstances may the code here be used for
+any matter, either publicly or privately, without the
+express written consent of the author.
